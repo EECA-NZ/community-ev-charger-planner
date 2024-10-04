@@ -10,10 +10,10 @@ create estimated future ev numbers by sa2.sql
 # Process
 
 The overall process involves
-•	Ingest updated data
-•	Run script in postgres to transform and update calculations
-•	Bring tables/data into ArcGIS pro
-•	Replace tables/layers in AGOL
+-	Ingest updated data
+-	Run script in postgres to transform and update calculations
+-	Bring tables/data into ArcGIS pro
+-	Replace tables/layers in AGOL
 
 # Data sources
 
